@@ -1,8 +1,3 @@
----
-title: PAGE TITLE HERE
-layout: template
-filename: HOME .md FILE HERE
---- 
 
 ## Welcome to GitHub Pages
 
