@@ -10,7 +10,7 @@
 
 # [5. Linear Model Selection and Regularization](https://euler777.github.io/LinModSelectionRegularization.github.io/)
 
-# [6. Linear Model Selection and Regularization](https://euler777.github.io/TreeBasedMethods.github.io/)
+# [6. Tree-Based Methods](https://euler777.github.io/TreeBasedMethods.github.io/)
 
 You can use the [editor on GitHub](https://github.com/euler777/euler777.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
