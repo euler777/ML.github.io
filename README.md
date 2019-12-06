@@ -8,6 +8,8 @@
 
 # [4. Forecasting Strategies](https://euler777.github.io/ForecastingStrategies.github.io/)
 
+# [5. Linear Model Selection and Regularization](https://euler777.github.io/LinModSelectionRegularization.github.io/)
+
 
 You can use the [editor on GitHub](https://github.com/euler777/euler777.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
