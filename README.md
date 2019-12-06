@@ -1,4 +1,4 @@
-## Welcome to Machine Learning in Python and R!
+# Welcome to Machine Learning in Python and R!
 
 Throughout these tutorials we present practical machine learning algorithms that are commonplace and form the foundations for continued research. Each section contains implementation details in Python and R and explains their use in extracting information to make decisions in different contexts.
 
