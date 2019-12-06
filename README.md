@@ -4,6 +4,8 @@
 
 # [2. Classification](https://euler777.github.io/Classification.github.io/)
 
+# [3. Resampling Methods](https://euler777.github.io/ResamplingMethods.github.io/)
+
 
 You can use the [editor on GitHub](https://github.com/euler777/euler777.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
